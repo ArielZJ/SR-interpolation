@@ -1,0 +1,19 @@
+"Foveal #FF0000" "Foveal #FFAA00" "Foveal #AAFF00" "Foveal #00FF00" "Foveal #00FFA9" "Foveal #00A9FF" "Foveal #0000FF" "Foveal #AA00FF" "Foveal #FF00AA" "Peripheral #FF0000" "Peripheral #FFAA00" "Peripheral #AAFF00" "Peripheral #00FF00" "Peripheral #00FFA9" "Peripheral #00A9FF" "Peripheral #0000FF" "Peripheral #AA00FF" "Peripheral #FF00AA"
+"Foveal #FF0000" 0 3.5 6.5 7 6.5 6.5 7 7 3.5 3 2 4.5 5 5.5 4.5 6 5.5 4
+"Foveal #FFAA00" 3.5 0 5 6 6 6 6.5 6 5 2 4 5 5.5 4.5 4.5 5.5 3.5 4
+"Foveal #AAFF00" 6.5 5 0 1 4.5 6.5 6.5 6.5 5.5 4.5 5 5 2.5 4 6 5.5 5 5
+"Foveal #00FF00" 7 6 1 0 1.5 7 6.5 6.5 6.5 5 5.5 2.5 4 4 6.5 3.5 2 4.5
+"Foveal #00FFA9" 6.5 6 4.5 1.5 0 6 7 6 6 5.5 4.5 4 4 5 5.5 6 4.5 6.5
+"Foveal #00A9FF" 6.5 6 6.5 7 6 0 1 1.5 6.5 4.5 4.5 6 6.5 5.5 6 5 2.5 5
+"Foveal #0000FF" 7 6.5 6.5 6.5 7 1 0 1.5 6.5 6 5.5 5.5 3.5 6 5 0 5 4
+"Foveal #AA00FF" 7 6 6.5 6.5 6 1.5 1.5 1 5.5 5.5 3.5 5 2 4.5 2.5 5 5 5.5
+"Foveal #FF00AA" 3.5 5 5.5 6.5 6 6.5 6.5 5.5 1 4 4 5 4.5 6.5 5 4 5.5 0
+"Peripheral #FF0000" 3 2 4.5 5 5.5 4.5 6 5.5 4 4 2.5 5.5 5.5 6.5 6 5 7 3.5
+"Peripheral #FFAA00" 2 4 5 5.5 4.5 4.5 5.5 3.5 4 2.5 4 4 4 6.5 5 5.5 5 4
+"Peripheral #AAFF00" 4.5 5 5 2.5 4 6 5.5 5 5 5.5 4 0 0 4.5 5.5 5 4.5 6
+"Peripheral #00FF00" 5 5.5 2.5 4 4 6.5 3.5 2 4.5 5.5 4 0 4 2.5 4 3.5 5.5 5
+"Peripheral #00FFA9" 5.5 4.5 4 4 5 5.5 6 4.5 6.5 6.5 6.5 4.5 2.5 1 4 6 5.5 5.5
+"Peripheral #00A9FF" 4.5 4.5 6 6.5 5.5 6 5 2.5 5 6 5 5.5 4 4 1 5 1 4
+"Peripheral #0000FF" 6 5.5 5.5 3.5 6 5 0 5 4 5 5.5 5 3.5 6 5 5 2 5.5
+"Peripheral #AA00FF" 5.5 3.5 5 2 4.5 2.5 5 5 5.5 7 5 4.5 5.5 5.5 1 2 0 4
+"Peripheral #FF00AA" 4 4 5 4.5 6.5 5 4 5.5 0 3.5 4 6 5 5.5 4 5.5 4 5
